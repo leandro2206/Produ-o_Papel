@@ -1,5 +1,4 @@
-# Welcome to GitHub Desktop!
+Este app calcula a produção de papel em Kg por hora e por dia,
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+em todos tipos de papéis planos, descontando as perdas no processo.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
